@@ -1,0 +1,16 @@
+C:\Users\XXX\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Vigener.exe
+C:\Users\XXX\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Vigener.deps.json
+C:\Users\XXX\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Vigener.runtimeconfig.json
+C:\Users\XXX\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Vigener.runtimeconfig.dev.json
+C:\Users\XXX\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Vigener.dll
+C:\Users\XXX\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\ref\Vigener.dll
+C:\Users\XXX\Source\Repos\ConsoleApp1\ConsoleApp1\bin\Debug\net5.0\Vigener.pdb
+C:\Users\XXX\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Vigener.csproj.AssemblyReference.cache
+C:\Users\XXX\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Vigener.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XXX\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Vigener.AssemblyInfoInputs.cache
+C:\Users\XXX\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Vigener.AssemblyInfo.cs
+C:\Users\XXX\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Vigener.csproj.CoreCompileInputs.cache
+C:\Users\XXX\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Vigener.dll
+C:\Users\XXX\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\ref\Vigener.dll
+C:\Users\XXX\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Vigener.pdb
+C:\Users\XXX\Source\Repos\ConsoleApp1\ConsoleApp1\obj\Debug\net5.0\Vigener.genruntimeconfig.cache
